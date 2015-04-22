@@ -1,0 +1,117 @@
+s:5586:"<div id="boss_productcategory_tabs1" class="boss_productcategory_tabs " >
+  <div class="box-content">
+    <h3>Popular in Kids</h3>	
+		<div class="carousel-button">
+					<a id="prev_tab1" class="prev" title="Prev">&lt;</a>
+			<a id="next_tab1" class="next" title="Next">&gt;</a>
+			</div>
+    <div class="content_tabs list_carousel responsive" id="content_tab1">
+					<ul  class="box-product product-grid not-animated" data-animate="fadeInLeft" data-delay="200" id="carousel_tab1" class="box-product product-grid">
+			<li>
+								<div class="image">
+				<a href="http://mypartyshoponline.com/1st-birthday-princess-paper-plates"><b></b><img src="http://mypartyshoponline.com/image/cache/data/1st_birthday_princess_paper_plates__1427893895_64367-200x200.jpg" alt="Paper Plates (pack of 10)" title="Paper Plates (pack of 10)"/></a>
+								<div class="cart">
+				<a title="Add to Cart" onclick="boss_addToCart('1253');" class="btn btn-color"><span>Add to Cart</span></a></div>	
+				
+				</div>
+												<div class="name"><a href="http://mypartyshoponline.com/1st-birthday-princess-paper-plates">Paper Plates (pack of 10)</a></div>
+				<div class="model">Princess</div>
+								<div class="price">
+				  				  Rs. 99.00				  				</div>
+				</li><li>
+								<div class="image">
+				<a href="http://mypartyshoponline.com/1st-birthday-princess-paper-cups"><b></b><img src="http://mypartyshoponline.com/image/cache/data/ist_birthday_princess_cups1__1427893135_77650-200x200.jpg" alt="Paper Cups (pack of 10)" title="Paper Cups (pack of 10)"/></a>
+								<div class="cart">
+				<a title="Add to Cart" onclick="boss_addToCart('1252');" class="btn btn-color"><span>Add to Cart</span></a></div>	
+				
+				</div>
+												<div class="name"><a href="http://mypartyshoponline.com/1st-birthday-princess-paper-cups">Paper Cups (pack of 10)</a></div>
+				<div class="model">Princess</div>
+								<div class="price">
+				  				  Rs. 99.00				  				</div>
+				</li><li>
+								<div class="image">
+				<a href="http://mypartyshoponline.com/1st-birthday-princess-paper-napkins"><b></b><img src="http://mypartyshoponline.com/image/cache/data/ist_birthday_princess_napkin__1427891138_17886-200x200.jpg" alt="Paper Napkins (Pack of 10)" title="Paper Napkins (Pack of 10)"/></a>
+								<div class="cart">
+				<a title="Add to Cart" onclick="boss_addToCart('1251');" class="btn btn-color"><span>Add to Cart</span></a></div>	
+				
+				</div>
+												<div class="name"><a href="http://mypartyshoponline.com/1st-birthday-princess-paper-napkins">Paper Napkins (Pack of 10)</a></div>
+				<div class="model">Princess</div>
+								<div class="price">
+				  				  Rs. 99.00				  				</div>
+				</li><li>
+								<div class="image">
+				<a href="http://mypartyshoponline.com/1st-birthday-princess-lootbags"><b></b><img src="http://mypartyshoponline.com/image/cache/data/ist_birthday_princess_lootbags1__1427890772_74840-200x200.jpg" alt="1st Birthday Princess Lootbags (Pack of 10)" title="1st Birthday Princess Lootbags (Pack of 10)"/></a>
+								<div class="cart">
+				<a title="Add to Cart" onclick="boss_addToCart('1250');" class="btn btn-color"><span>Add to Cart</span></a></div>	
+				
+				</div>
+												<div class="name"><a href="http://mypartyshoponline.com/1st-birthday-princess-lootbags">1st Birthday Princess Lootbags (Pack of 10)</a></div>
+				<div class="model">Princess</div>
+								<div class="price">
+				  				  Rs. 99.00				  				</div>
+				</li><li>
+								<div class="image">
+				<a href="http://mypartyshoponline.com/mom-to-be-brooch"><b></b><img src="http://mypartyshoponline.com/image/cache/data/mom to be brooch-200x200.jpg" alt="Mom To Be Brooch" title="Mom To Be Brooch"/></a>
+								<div class="cart">
+				<a title="Add to Cart" onclick="boss_addToCart('1237');" class="btn btn-color"><span>Add to Cart</span></a></div>	
+				
+				</div>
+												<div class="name"><a href="http://mypartyshoponline.com/mom-to-be-brooch">Mom To Be Brooch</a></div>
+				<div class="model">Baby Shower</div>
+								<div class="price">
+				  				  Rs. 199.00				  				</div>
+				</li><li>
+								<div class="image">
+				<a href="http://mypartyshoponline.com/pink-candy-foil-balloon"><b></b><img src="http://mypartyshoponline.com/image/cache/data/pink candy foil balloon-200x200.jpg" alt="Pink Candy Foil Balloon" title="Pink Candy Foil Balloon"/></a>
+								<div class="cart">
+				<a title="Add to Cart" onclick="boss_addToCart('1231');" class="btn btn-color"><span>Add to Cart</span></a></div>	
+				
+				</div>
+												<div class="name"><a href="http://mypartyshoponline.com/pink-candy-foil-balloon">Pink Candy Foil Balloon</a></div>
+				<div class="model">Balloons</div>
+								<div class="price">
+				  				  Rs. 149.00				  				</div>
+				</li></ul>
+		    </div>
+  </div>
+</div>
+<script type="text/javascript" language="javascript"><!--
+function image_width_resize1()	{
+	}
+
+$(window).resize(function() {
+	image_width_resize1();
+});
+
+$(window).load(function() {
+	image_width_resize1();
+	//resize_width();
+	$('#carousel_tab1').carouFredSel({
+		responsive: true,
+		width: '100%',
+		height: 'variable', 
+		prev: '#prev_tab1',
+		next: '#next_tab1',
+		auto: false,
+		swipe: {
+				onTouch : true
+			},
+		items: {
+				width: 290 ,
+				height: 'auto', 
+				visible: {
+					min: 1,
+					max: 4
+				}
+			},
+		scroll: {
+				direction : 'left',    //  The direction of the transition.
+				duration  : 900   //  The duration of the transition.
+			}
+	});	
+});
+
+//--></script>
+";
